@@ -1,0 +1,14 @@
+﻿  Ocean.cpp
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Bay.h(32,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Bay.h(33,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Sea.h(37,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Sea.h(38,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Ocean.h(40,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Ocean.h(41,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Sea.cpp
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Bay.h(32,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Bay.h(33,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Sea.h(37,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\Sea.h(38,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Practise_6_3.vcxproj -> C:\Users\lotal\Desktop\Ege-inf\Visual studio\Practise_6_3\x64\Debug\Practise_6_3.exe
